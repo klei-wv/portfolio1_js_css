@@ -2,20 +2,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-bg-color: #f7fbfd;
+  --primary-bg-color: #90EE90;
   --primary-accent: #0c1618;
-  --secondary-accent: #6f1d1b;
+  --secondary-accent: #90EE90;
 
-  --main-text-color: #0c1618;
+  --main-text-color: #00008B;
   --gray-text-color: #565a5b;
 
-  --white-color: #fff;
+  --white-color: #ffffff;
   --gray-color: #e9e8e8;
   --gray-color-2: #c0c0c0;
   --gray-color-3: #e6e6e6;
 
   --color-preloader-bg: var(--white-color);
-  --color-dots: #1a1a1a;
+  --color-dots: #90EE90;
 }
 
 /* Common styles */
